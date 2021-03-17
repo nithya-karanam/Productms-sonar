@@ -1,0 +1,14 @@
+com\infy\Product\controller\ProductController.class
+com\infy\Product\ProductMsApplication.class
+com\infy\Product\Dto\StockDTO.class
+com\infy\Product\entity\Product.class
+com\infy\Product\service\ProductService.class
+com\infy\Product\service\ProductServiceImpl.class
+com\infy\Product\Dto\ProductOrderedDTO.class
+com\infy\Product\repository\SubscribedproductRepository.class
+com\infy\Product\repository\ProductRepository.class
+com\infy\Product\Dto\ProductDTO.class
+com\infy\validator\Validator.class
+com\infy\Product\entity\Subscribedproduct.class
+com\infy\Product\Dto\SubscribedproductDTO.class
+com\infy\Product\service\ProductMSException.class
